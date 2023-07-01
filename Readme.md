@@ -17,5 +17,5 @@ left: model without context analysis
 
 middle: with context analysis, without training on pseudo labelled data
 
-right: with context analysis, without training on pseudo labelled data
+right: with context analysis, training on pseudo labelled data
 
